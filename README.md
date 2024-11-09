@@ -1,6 +1,4 @@
-Perfecto, entonces aquí tienes un ejemplo de `README.md` adaptado para un proyecto de lista de tareas en React. Esto cubre la instalación, el uso y los detalles específicos de un proyecto de este tipo.
 
----
 
 # Lista de Tareas (To-Do List)
 
@@ -42,7 +40,8 @@ Luego abre [http://localhost:3000](http://localhost:3000) en tu navegador para v
 
 ### Captura de pantalla
 
-![Captura de pantalla de la lista de tareas](ruta/de/tu/captura.png)
+![image](https://github.com/user-attachments/assets/f1ac2af6-4dde-4a75-b40f-f9309b66689b)
+
 
 ## Características
 
